@@ -1,3 +1,13 @@
+This Notebook demonstrates how to use the iris-dataset to train different the following classifiers:
+- K-Nearest Neighbors (KNN)
+- Linear Regression
+- Logistic Regression
+- XGBoost
+- Random Forest
+- Support Vector Machine (SVM)
+- Neural Network
+
+
 ## Installation
 
 1. Clone the repository
